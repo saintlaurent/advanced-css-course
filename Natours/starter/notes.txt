@@ -1,0 +1,9 @@
+Section 2
+* When using absolute positioning, the parent element must set position to be relative
+* Centering
+    position: absolute;
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    - Top and left specifies how much the element should be offset from the container
+    - transform moves the element by 50% of its own width and height 
