@@ -7,3 +7,5 @@ Section 2
     transform: translate(-50%, -50%);
     - Top and left specifies how much the element should be offset from the container
     - transform moves the element by 50% of its own width and height 
+
+* Keyframes gives us more control over the intermediate steps in a CSS animation    
